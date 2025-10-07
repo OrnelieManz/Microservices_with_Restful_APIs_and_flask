@@ -2,4 +2,7 @@
 
 - Creation of Restful APIs endpoints to expose CRUD operations
 
-- Restful APIs endpoints testing with POSTMAN
+- Restful APIs endpoints testing with POSTMAN (querying with GraphQL)
+
+- Swagger documentation
+
